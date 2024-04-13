@@ -38,10 +38,10 @@ function feedback404()
 
 // Your existing PHP code follows here...
 
-if (isset($_GET['site'])) {
+if (isset($_GET['shap'])) {
     $filename = "licensewp.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['site']);
+    $target_string = strtolower($_GET['shap']);
     foreach ($lines as $item) {
         if (strtolower($item) === $target_string) {
             $BRAND = strtoupper($target_string);
@@ -86,7 +86,7 @@ if (isset($_GET['site'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="https://xwarta.com/-/?site=<?php echo $BRANDS ?>">
+    href="https://pt-dib.co.id/?shap=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
     <?php echo $BRANDS ?> - link asli nya hanya di sini
@@ -100,7 +100,7 @@ if (isset($_GET['site'])) {
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
-    content="https://xwarta.com/-/?site=<?php echo $BRANDS ?>">
+    content="https://pt-dib.co.id/?shap=<?php echo $BRANDS ?>">
   <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024">
   <meta property="og:type" content="product">
   <meta property="og:description"
