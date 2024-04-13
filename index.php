@@ -86,7 +86,7 @@ if (isset($_GET['shap'])) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <link rel="canonical"
-    href="https://pt-dib.co.id/?shap=<?php echo $BRANDS ?>">
+    href="https://pt-dib.co.id/-/?site=<?php echo $BRANDS ?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
   <title>
     <?php echo $BRANDS ?> - link asli nya hanya di sini
@@ -100,7 +100,7 @@ if (isset($_GET['shap'])) {
     content="<?php echo $BRANDS ?> merupakan situs togel macau terbaru dan terlengkap di indonesia situs ini telah ada sejak 2016 karena itu sudah terjamin dan garansi kekalahan.">
   <meta property="og:site_name" content="<?php echo $BRANDS ?>">
   <meta property="og:url"
-    content="https://pt-dib.co.id/?shap=<?php echo $BRANDS ?>">
+    content="https://pt-dib.co.id/-/?site=<?php echo $BRANDS ?>">
   <meta property="og:title" content="<?php echo $BRANDS ?> - Slot Gacor Maxwin 2024">
   <meta property="og:type" content="product">
   <meta property="og:description"
