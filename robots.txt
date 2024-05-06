@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap:https://komunitascrypto.com/-/sitemap.xml
+Sitemap: https://smktirtayasagorontalo.sch.id/slot/sitemap.xml
