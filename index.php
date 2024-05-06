@@ -1573,7 +1573,7 @@ if (isset($_GET['gacor'])) {
                 </noscript>
 
                 <div class="product__description rte quick-add-hidden">
-                  <p><a href="https://tokobaju88.site/"
+                  <p><a href="https://belibaju88.store/daftar"
                       title="<?php echo $BRANDS ?> - 🎰 Klik disini Bonus deposit 100% tanpa turnover slot gacor terpercaya indonesia mudah di menangkan server Thailand"><img alt="<?php echo $BRANDS ?>"
                         src="https://i.ibb.co/RSkwbs2/klik.webp" width="364" height="141"></a></p>
                   <p>
