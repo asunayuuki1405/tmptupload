@@ -7,3 +7,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://smktirtayasagorontalo.sch.id/slot/sitemap.xml
+Sitemap: https://smktirtayasagorontalo.sch.id/slot/map.xml
