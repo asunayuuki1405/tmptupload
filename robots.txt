@@ -6,5 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://smktirtayasagorontalo.sch.id/slot/sitemap.xml
-Sitemap: https://smktirtayasagorontalo.sch.id/slot/map.xml
+Sitemap: https://pmb.iticm.ac.id/wp/sitemap.xml
